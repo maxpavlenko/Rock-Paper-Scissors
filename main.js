@@ -69,6 +69,6 @@ const playGame = () => {
 
 playGame();
 
-//console.log(playGame()); - test game
+//console.log(playGame());
 
 
